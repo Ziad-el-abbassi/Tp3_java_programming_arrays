@@ -1,4 +1,6 @@
-class Exercise_1{
+package Exercise_1;
+
+public class Exercise_1{
     public static void printArray(int[] arr){
         for(int k=0;k<arr.length;k++){
             System.out.println("Element "+k+" contents "+arr[k]);
